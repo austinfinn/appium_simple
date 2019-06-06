@@ -1,0 +1,10 @@
+[
+  {
+    "accountName": "Test account Money",
+    "accountId": "117ceb73-abab-aaaa-bbbb-2cd951e3f523",
+    "accountStatus": "NEW",
+    "productCode": "ABC",
+    "lastFourAccountNumbers": "0132",
+    "accountType": "TRAVEL_CARD"
+  }
+]
